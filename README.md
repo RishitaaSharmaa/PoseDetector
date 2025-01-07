@@ -79,12 +79,3 @@ python pose_detector.py
 ## Results
 
 The system accurately detects human poses in various scenarios and displays annotated images or video frames with pose landmarks.
-
-### Example Output:
-
-- **Static Image Pose Detection:**
-  ![Static Pose Detection Example](example_static.png)
-
-- **Real-time Video Pose Detection:**
-  ![Real-time Pose Detection Example](example_realtime.gif)
-
